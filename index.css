@@ -6,6 +6,8 @@ body {
     text-align: center;
     font-family: 'neucha', cursive;
     background: url("https://wallpaperaccess.com/full/384591.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
     color: #ffffff;
     animation: fadeIn 4s;
 }
